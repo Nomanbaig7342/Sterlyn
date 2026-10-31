@@ -1,0 +1,20 @@
+[
+  {
+    "id": "t1",
+    "name": "Ritika Sharma",
+    "project": "Kembridge Loft",
+    "quote": "Sterlyn asked better questions than any architect we interviewed, and the loft still feels like us two years on."
+  },
+  {
+    "id": "t2",
+    "name": "Owen D'Souza",
+    "project": "Bramhall & Co. Studio",
+    "quote": "They redesigned our studio around how the team actually works, not how a brochure said a studio should look."
+  },
+  {
+    "id": "t3",
+    "name": "Meera Kulkarni",
+    "project": "Verandah House",
+    "quote": "Every material choice had a reason behind it. Nothing in the house feels decorative for its own sake."
+  }
+]

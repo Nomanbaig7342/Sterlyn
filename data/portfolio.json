@@ -1,0 +1,56 @@
+[
+  {
+    "id": "p1",
+    "title": "Kembridge Loft",
+    "category": "Residential",
+    "location": "Pune",
+    "year": "2025",
+    "blurb": "A converted warehouse loft rebuilt around raw concrete, walnut joinery, and a single skylight.",
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "p2",
+    "title": "Aravali Weekend House",
+    "category": "Residential",
+    "location": "Alibag",
+    "year": "2024",
+    "blurb": "Lime-washed walls and cane furniture built for cross-ventilation and slow mornings.",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "p3",
+    "title": "Bramhall & Co. Studio",
+    "category": "Commercial",
+    "location": "Mumbai",
+    "year": "2024",
+    "blurb": "A design studio fit-out using reclaimed teak, brass signage, and acoustic felt panels.",
+    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "p4",
+    "title": "Copper Leaf Café",
+    "category": "Hospitality",
+    "location": "Pune",
+    "year": "2023",
+    "blurb": "A 40-seat café wrapped in terracotta tile and a hand-plastered lime ceiling.",
+    "image": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "p5",
+    "title": "Verandah House",
+    "category": "Residential",
+    "location": "Nashik",
+    "year": "2023",
+    "blurb": "A four-bedroom family home organised around a central verandah and courtyard garden.",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "p6",
+    "title": "Halden Retail Flagship",
+    "category": "Retail",
+    "location": "Bengaluru",
+    "year": "2022",
+    "blurb": "A flagship store built on a modular fixture system in blackened steel and oak.",
+    "image": "https://images.unsplash.com/photo-1555529771-7888783a18d3?auto=format&fit=crop&w=1200&q=80"
+  }
+]

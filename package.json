@@ -1,0 +1,17 @@
+{
+  "name": "sterlyn-website",
+  "version": "1.0.0",
+  "description": "Sterlyn Interior Design — full website with static frontend and a lightweight Node.js API backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "optionalDependencies": {
+    "nodemailer": "^6.9.0"
+  },
+  "license": "MIT"
+}
